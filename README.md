@@ -72,7 +72,7 @@ As I embark on this exciting journey, I am driven by the vision of not only adva
 
 ## ✍️ Projects I am Currently Working on
 
-- [My Portfolio](https://github.com/adnanm123/portfolio)
+- [My Portfolio](https://adnan-mohamud-portfolio.netlify.app/)
 - [Hungry Helper Frontend](https://github.com/Mr-Al-s/hungry-helper-frontend)
 - [Hungry Helper Backend](https://github.com/Mr-Al-s/hungry-helper-backend)
 
