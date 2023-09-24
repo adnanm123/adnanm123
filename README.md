@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! &#x1F44B;
+# ![GitHub Portfolio Title](header.png)
 
-![GitHub Portfolio Title](header.png)
+## Welcome to My GitHub Profile! &#x1F44B;
 
 [![LinkedIn](icons8-linkedin-32.png)](https://www.linkedin.com/in/adnanmohamud/)
 [![Gmail](icons8-gmail-32.png)](mailto:adnanmohamud6@gmail.com)
@@ -9,13 +9,9 @@
 
 I'm Adnan Mohamud, a passionate software developer on a journey to make a difference through technology. Join me as I explore the ever-evolving world of code and creativity.
 
-## 🧑‍💻️ My Journey: Becoming a Developer
+## 🧑‍💻️ My Developer Identity
 
-My path in tech is a blend of creativity and problem-solving. As a software developer, I'm passionate about crafting innovative solutions for complex challenges.
-
-I earned my degree in Informatics with a focus on Human-Computer Interaction from the University of Washington. During my internship at Microsoft, a dynamic software development firm, I had the opportunity to witness firsthand the transformative power of technology in shaping businesses and enhancing user experiences.
-
-A pivotal moment led me to embrace dedicated software development. With open arms, I leverage my creativity and problem-solving skills to make a meaningful impact. My goal is to contribute to a better world through software development, and I look forward to the opportunities ahead. 🌟
+I studied Full Stack Development at Code Fellows, and during my journey, I discovered a deep affinity for JavaScript. I'm captivated by the language's versatility and its ability to create dynamic and interactive web applications. JavaScript has become my primary focus, and I'm dedicated to honing my skills and creating innovative solutions using this powerful language
 
 ## 🛠️ Technologies and Tools
 
@@ -26,6 +22,8 @@ Here are some of the technologies and tools I'm proficient in:
 - **Frameworks/Layouts:** Express.js, CSS Flexbox & Grid
 - **Editor:** Visual Studio Code
 - **OS:** macOS Ventura
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanm123&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/adnanm123/github-readme-stats)
 
 ## Professional Competencies
 
@@ -75,6 +73,8 @@ As I embark on this exciting journey, I am driven by the vision of not only adva
 - [My Portfolio](https://adnan-mohamud-portfolio.netlify.app/)
 - [Hungry Helper Frontend](https://github.com/Mr-Al-s/hungry-helper-frontend)
 - [Hungry Helper Backend](https://github.com/Mr-Al-s/hungry-helper-backend)
+
+![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanm123&show_icons=true&theme=radical)
 
 ## What I am Currently Learning About
 
