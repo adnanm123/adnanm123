@@ -2,8 +2,6 @@
 
 ## Welcome to My GitHub Profile! &#x1F44B;
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanm123.adnanm123&left_color=green&right_color=red)
-
 ## 🌟 About Me
 
 Hello, I'm Adnan Mohamud, a passionate software developer specializing in web development. My journey in the tech world is driven by a strong commitment to leveraging the power of web technologies to build innovative and impactful digital solutions. With a keen interest in both front-end and back-end development, I continuously explore the latest trends and technologies to enhance user experiences and create efficient, scalable web applications.
