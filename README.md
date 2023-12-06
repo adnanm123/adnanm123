@@ -1,4 +1,4 @@
-# ![GitHub Portfolio Title](banner.png)
+# ![GitHub Portfolio Title](Banner.png)
 
 ## Welcome to My GitHub Profile! &#x1F44B;
 
