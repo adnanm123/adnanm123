@@ -1,13 +1,19 @@
-# ![GitHub Portfolio Title](header.png)
+# ![GitHub Portfolio Title](Banner.png)
 
 ## Welcome to My GitHub Profile! &#x1F44B;
 
-[![LinkedIn](icons8-linkedin-32.png)](https://www.linkedin.com/in/adnanmohamud/)
-[![Gmail](icons8-gmail-32.png)](mailto:adnanmohamud6@gmail.com)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-## 🐍 About Me
+## 🌟 About Me
 
-I'm Adnan Mohamud, a passionate software developer on a journey to make a difference through technology. Join me as I explore the ever-evolving world of code and creativity.
+Hello, I'm Adnan Mohamud, a passionate software developer specializing in web development. My journey in the tech world is driven by a strong commitment to leveraging the power of web technologies to build innovative and impactful digital solutions. With a keen interest in both front-end and back-end development, I continuously explore the latest trends and technologies to enhance user experiences and create efficient, scalable web applications.
+
+### EDUCATION
+
+- **Code Fellows, Seattle, WA (2023)**
+  - Certificate in Advanced Software Development in Full-Stack JavaScript
+- **University of Washington, Seattle, WA**
+  - Bachelor of Science in Informatics (Human-Computer Interaction)
 
 ## 🧑‍💻️ My Developer Identity
 
@@ -15,13 +21,16 @@ I studied Full Stack Development at Code Fellows, and during my journey, I disco
 
 ## 🛠️ Technologies and Tools
 
-Here are some of the technologies and tools I'm proficient in:
+As a software developer with a passion for continuous learning, I have expanded my technical expertise across a diverse range of languages, frameworks, and tools. My skill set includes:
 
-- **Languages:** JavaScript(ES6), SQL, HTML5, CSS3, Markdown
-- **Libraries/Tools:** React, Git, npm, Node.js, Chart.js, Chrome DevTools, JSON Web Tokens
-- **Frameworks/Layouts:** Express.js, CSS Flexbox & Grid
-- **Editor:** Visual Studio Code
-- **OS:** macOS Ventura
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, SQL, NoSQL, Markdown
+- **Front-End Development:** React (including Hooks, Context API), Redux, Bootstrap, Tailwind CSS, SASS, React Native, WebSockets
+- **Back-End Development:** Node.js, Express.js, MongoDB, RESTful API Development, Socket.IO
+- **DevOps & Cloud Services:** AWS (Lambda, API Gateway, DynamoDB, Amazon Comprehend, Amazon Translate, S3),Continuous Integration/Continuous Deployment (CI/CD) Principles
+- **Version Control & Collaboration Tools:** Git, GitHub, Netlify, Render, Trello
+- **Testing & Quality Assurance:** Jest, Unit Testing, Integration Testing
+- **Development Environments & Editors:** Visual Studio Code, Visual Studio, Unix Command Line
+- **Other Skills:** Auth0 for Authentication, Chart.js for Data Visualization, Chrome DevTools for Debugging
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanm123&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/adnanm123/github-readme-stats)
 
@@ -68,27 +77,33 @@ Moreover, I find endless inspiration in the limitless possibilities that emerge 
 
 As I embark on this exciting journey, I am driven by the vision of not only advancing my own skills but also sharing my knowledge with the next generation of developers. Together, we will forge a path toward a future that is empowered by technology and marked by innovation.
 
-## ✍️ Projects I am Currently Working on
+## ✍️ My Projects
 
-- [My Portfolio](https://adnan-mohamud-portfolio.netlify.app/)
-- [Hungry Helper Frontend](https://github.com/Mr-Al-s/hungry-helper-frontend)
-- [Hungry Helper Backend](https://github.com/Mr-Al-s/hungry-helper-backend)
+* [Lost Hub](https://lost-hub-app.netlify.app/) - Nov 2023
+  * 🌐 Introducing LostHub, the game-changer in lost & found! 📍Misplaced something? Just use LostHub to report it 📝. Looking for a lost item? Browse through our digital catalog 🕵️‍♂️. Reunite with your belongings faster and easier than ever 🎊. LostHub is here to declutter the chaos of lost items and bring peace of mind 🌟. #LostAndFoundRevolution 🚀🔍🔗
+
+* [Just Talk Chat](https://github.com/JustTalkChat/just-talk-chat) - Oct 2023
+  * 🌐🗨️ Our application creates a vibrant, global chat room experience where users from around the world 🌎 can interact in real-time. With a cutting-edge translation feature 🔄, it breaks down language barriers, enabling seamless cross-linguistic conversations. Advanced AI 🤖 ensures a healthy chat environment by filtering out toxic messages. Additionally, a secure, private chatroom for administrators 🔒 allows for meticulous monitoring of flagged content, maintaining the platform's integrity. This fusion of accessibility, security, and global reach makes our chat platform a top choice for fostering worldwide connections. 🚀🌍 
+
+* [Hungry Helper](https://mr-als-hungryhelper.netlify.app/) - Sept 2023
+  * 🍔 HungryHelper is your ultimate food adventure app! Sign in, set your dining criteria 🍽️, and let our random restaurant generator surprise you with delicious options. Found your match? Reserve a table 📅, update it if plans change 🔄, or delete it with a tap 🗑️. Dining made fun and easy with HungryHelper! 📱🎉
+
+* [City Explorer](https://adnan-city-explorer.netlify.app/) - Aug 2023
+  * City Explorer 🌐 is a professional-grade application tailored for urban enthusiasts and geographers. Built with React, this tool allows users to delve into the heart of any city 🏙️, uncovering detailed geographical data like latitude, longitude, and a crisp static map 🗺️. Leveraging the power of the LocationIQ API, it provides precise, real-time city insights. Whether for travel planning, academic research, or simple curiosity, City Explorer is your digital compass 🧭 for exploring the world's urban landscapes with ease and accuracy. 
+
+* [Rock, Paper, Scissors](https://glad-gaming.github.io/glad-games/) - Jun 2023
+  * Explore the ultimate Rock Paper Scissors game! 🧨📄✂️ Challenge various opponents with unique strategies and rise on the leaderboard. Can you achieve the most wins within a limited number of rounds and conquer multiple opponents in a row? Dive into the thrilling world of Rock Paper Scissors now!
+
+[Check out my portfolio](https://adnan-mohamud-portfolio.netlify.app/)
+
+## 🤝 Connect with Me
+
+I love connecting with fellow tech enthusiasts and professionals! Feel free to reach out or follow my journey on:
+
+- [LinkedIn](https://www.linkedin.com/in/adnanmohamud)
+- [GitHub](https://github.com/adnanm123)
 
 ![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanm123&show_icons=true&theme=radical)
-
-## What I am Currently Learning About
-
-- APIs
-- Authentication(Auth0)
-- String methods in JS
-- Building servers
-
-## 👽 Fun Facts
-
-- I'm a sports enthusiast and love watching and following various sports like 🏈 football, 🏀 basketball, ⚽ soccer, and 🏒 hockey.
-- I'm an avid gamer and love playing video games 🎮.
-- I have a passion for exploring new places and cultures through traveling ✈️.
-- I have a passion for collecting shoes 👟.
 
 ## 📚 Resources Used to Build this Amazing Repo
 
